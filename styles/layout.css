@@ -9,18 +9,22 @@ div {
 
 #a {
   height: 75px;
+  background-color: lightcoral;
 }
 
 #b {
   height: 150px;
+  background-color: lightcyan;
 }
 
 #c{
   height: 125px;
+  background-color: lightgoldenrodyellow;
 }
 
 #d{
   height: 125px;
+  background-color: lightgray
 }
 
 /* .efgh{
@@ -32,32 +36,36 @@ div {
   height: 250px;
   width: 240px;
   float: left;
+  background-color: lightgreen;
 }
 #f{
   height: 250px;
   width: 240px;
   float:right;
+  background-color: lightpink
 }
 #g{
   height: 250px;
   width: 240px;
   float: left;
+  background-color: lightskyblue
 }
 #h{
   height: 250px;
   width: 240px;
   float: right;
+  background-color: lightseagreen
 }
 
 #i{
   clear: both;
   height:80px;
+  background-color: lightsalmon;
 }
 
 @media( min-width:767px){
   main, section {
     width: 960px;
-    background-color: lightcoral;
   }
 
   #a {
